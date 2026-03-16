@@ -1,0 +1,1 @@
+# rabin-karp-py\nZero-dependency Python implementation.\n
